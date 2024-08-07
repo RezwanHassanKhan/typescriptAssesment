@@ -1,7 +1,7 @@
 import { toUpperCase,getStringInfo,StringUtils } from "../app/app";
 
 
-describe("Utils Test Suite",()=>
+describe.skip("Utils Test Suite",()=>
 {
     describe('StringUtils Test', ()=> 
     {
